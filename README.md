@@ -37,3 +37,8 @@ Ayudar a empresas a resolver problemas técnicos, mantener sistemas confiables, 
 
 ## 💡 Forma de trabajo
 Me hago responsable de mi trabajo y me enfoco en brindar soluciones claras, confiables y con autonomía.
+
+## 📫 Contacto
+- 🌐 Sitio web: https://pellati.com.ar
+- GitHub
+- Upwork
