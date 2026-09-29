@@ -1,16 +1,21 @@
 # 👋 Hi, I’m Santiago
 
-I’m an IT Support Specialist and Web Developer focused on solving technical problems and building reliable, user-friendly web solutions.
+I’m an IT Support Specialist and Web Developer focused on solving technical problems, maintaining reliable web solutions, and supporting Windows and Linux environments.
 
 ## 💻 What I do
-- Web development with HTML, CSS, JavaScript and React
 - IT support and troubleshooting
-- System configuration and technical problem solving
+- Windows and Linux system administration
+- Networking and connectivity troubleshooting
+- Storage, backups and data management
+- Web development with HTML, CSS, JavaScript and React
+- Node.js development
+- System configuration and technical solutions
 
 ## 🚀 Currently learning
-- React.js
+- Node.js
 - Advanced JavaScript
-- PHP
+- PowerShell
+- Linux administration
 
 ## 🛠️ Technologies
 - HTML
@@ -18,10 +23,13 @@ I’m an IT Support Specialist and Web Developer focused on solving technical pr
 - JavaScript
 - React
 - Node.js
+- PowerShell
+- Windows
+- Linux / Debian
 - Git & GitHub
 
 ## 🎯 Goal
-To help businesses improve their systems and build functional, reliable and user-friendly websites.
+To help businesses solve technical problems, maintain reliable systems, improve their IT infrastructure, and build functional web solutions.
 
 ## 📫 Contact
 - Upwork profile
