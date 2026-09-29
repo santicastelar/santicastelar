@@ -1,23 +1,23 @@
-# 👋 Hi, I’m Santiago
+# 👋 Hola, soy Santiago
 
-I’m an IT Support Specialist and Web Developer focused on solving technical problems, maintaining reliable web solutions, and supporting Windows and Linux environments.
+Soy especialista en soporte técnico IT y desarrollador web, enfocado en la resolución de problemas técnicos, el mantenimiento de soluciones web confiables y el soporte de entornos Windows y Linux.
 
-## 💻 What I do
-- IT support and troubleshooting
-- Windows and Linux system administration
-- Networking and connectivity troubleshooting
-- Storage, backups and data management
-- Web development with HTML, CSS, JavaScript and React
-- Node.js development
-- System configuration and technical solutions
+## 💻 Qué hago
+- Soporte técnico y resolución de problemas
+- Administración de sistemas Windows y Linux
+- Networking y resolución de problemas de conectividad
+- Storage, backups y gestión de datos
+- Desarrollo web con HTML, CSS, JavaScript y React
+- Desarrollo con Node.js
+- Configuración de sistemas y soluciones técnicas
 
-## 🚀 Currently learning
+## 🚀 Actualmente aprendiendo
 - Node.js
-- Advanced JavaScript
+- JavaScript avanzado
 - PowerShell
-- Linux administration
+- Administración de Linux
 
-## 🛠️ Technologies
+## 🛠️ Tecnologías
 - HTML
 - CSS
 - JavaScript
@@ -28,12 +28,12 @@ I’m an IT Support Specialist and Web Developer focused on solving technical pr
 - Linux / Debian
 - Git & GitHub
 
-## 🎯 Goal
-To help businesses solve technical problems, maintain reliable systems, improve their IT infrastructure, and build functional web solutions.
+## 🎯 Objetivo
+Ayudar a empresas a resolver problemas técnicos, mantener sistemas confiables, mejorar su infraestructura IT y desarrollar soluciones web funcionales.
 
-## 📫 Contact
-- Upwork profile
+## 📫 Contacto
+- Perfil de Upwork
 - GitHub
 
-## 💡 Work style
-I take ownership of my work and focus on delivering clear, reliable results with minimal supervision.
+## 💡 Forma de trabajo
+Me hago responsable de mi trabajo y me enfoco en brindar soluciones claras, confiables y con autonomía.
