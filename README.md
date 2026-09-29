@@ -40,5 +40,5 @@ Me hago responsable de mi trabajo y me enfoco en brindar soluciones claras, conf
 
 ## 📫 Contacto
 - 🌐 Sitio web: https://pellati.com.ar
+- ✉️ Email: pellatisantiago@gmail.com
 - GitHub
-- Upwork
